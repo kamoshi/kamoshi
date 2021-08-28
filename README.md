@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My favorite languages to work with and also the ones I am the most confident in working with are C#, Python and TypeScript. I am also interested in improving my abilities in writing lower level code, so in my free time I am learning Rust.
+
+Some of the technologies I am currently the most interested in are Keras, Hugo, Angular and Docker.
+
 <!--
 **kamoshi/kamoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
