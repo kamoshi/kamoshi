@@ -2,8 +2,6 @@
 
 My favorite languages to work with and also the ones I am the most confident in working with are C#, Python and TypeScript. I am also interested in improving my abilities in writing lower level code, so in my free time I am learning Rust.
 
-Some of the technologies I am currently the most interested in are Keras, Hugo, Angular and Docker.
-
 ![](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Distro-Kubuntu-informational?logo=kubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?logo=firefoxbrowser&logoColor=white)
