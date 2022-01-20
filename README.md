@@ -10,6 +10,8 @@ My favorite languages to work with and also the ones I am the most confident in 
 ![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSharp-informational?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/Tools-OpenCV-informational?logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Tools-FastAPI-informational?logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Angular-informational?logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Hugo-informational?logo=hugo&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Vultr-informational?logo=vultr&logoColor=white)
