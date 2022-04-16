@@ -14,7 +14,7 @@ My favorite languages to work with and also the ones I am the most confident in 
 ![](https://img.shields.io/badge/Tools-FastAPI-informational?logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Angular-informational?logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Hugo-informational?logo=hugo&logoColor=white)
-![](https://img.shields.io/badge/Cloud-Vultr-informational?logo=vultr&logoColor=white)
+![](https://img.shields.io/badge/Tools-Svelte-informational?logo=svelte&logoColor=white)
 
 <!--
 **kamoshi/kamoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
