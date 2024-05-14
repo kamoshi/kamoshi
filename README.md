@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- [My profile on Codeberg](https://codeberg.org/kamov)
+- [Private forgejo instance](https://git.kamoshi.org/)
+
 <!--
 **kamoshi/kamoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
