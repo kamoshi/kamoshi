@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-- [My profile on Codeberg](https://codeberg.org/kamov)
-- [Private forgejo instance](https://git.kamoshi.org/)
+A lot of my stuff is hosted here on [GitHub](https://github.com/kamoshi?tab=repositories), some things might also be hosted on [Codeberg](https://codeberg.org/kamov?tab=repositories), and my more personal stuff might be hosted on [my personal Forgejo instance](https://git.kamoshi.org/kamov?tab=repositories).
 
 <!--
 **kamoshi/kamoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
